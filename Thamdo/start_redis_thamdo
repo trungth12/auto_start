@@ -1,0 +1,4 @@
+
+cd /home/su207/thamdo
+
+redis-server redis6379.conf & echo $! >>/home/su207/thamdo/start_redis_thamdo.pid

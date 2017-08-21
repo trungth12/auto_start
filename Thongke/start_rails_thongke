@@ -1,0 +1,4 @@
+
+cd /home/su207/Caymonhoc
+
+redis-server redis6382.conf & echo $! >>/home/su207/qlgd-ubuntu/start_redis_caymonhoc.pid

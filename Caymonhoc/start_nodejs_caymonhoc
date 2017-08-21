@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd /home/su207/caymonhoc-ubuntu
+
+node app.js 
+##& echo $! >>/home/su207/Auto_start/pid/start_nodejs_caymonhoc.pid
